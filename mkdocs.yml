@@ -2,3 +2,5 @@ site_name: mkdocs demo
 site_url: https://alsnix.github.com/mkdocs-demo
 theme:
   name: material
+  features:
+    - content.code.copy
